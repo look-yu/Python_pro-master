@@ -1,2 +1,2 @@
 # Python_pro
-python小项目练习
+项目一做出了调整
